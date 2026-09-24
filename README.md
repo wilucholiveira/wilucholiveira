@@ -22,21 +22,21 @@ My work and projects connect business knowledge with technology, especially in D
 <tr>
 <td width="50%" valign="top">
 
-Monitoring & Risk
+<strong>Monitoring & Risk</strong><br><br>
 
-Continuous Auditing
-Risk Monitoring
-Business Indicators
+Continuous Auditing<br>
+Risk Monitoring<br>
+Business Indicators<br>
 Anomaly Detection
 
 </td>
 <td width="50%" valign="top">
 
-Controls & Decisions
+<strong>Controls & Decisions</strong><br><br>
 
-Process Analysis
-Automated Controls
-Decision Support
+Process Analysis<br>
+Automated Controls<br>
+Decision Support<br>
 Data-Driven Auditing
 
 </td>
@@ -55,8 +55,10 @@ Brasil Climate Monitor
 
 Real-time climate monitoring platform focused on Brazilian cities, combining meteorological data, APIs and interactive visualization.
 
-Stack
-Python APIs Data Visualization Web
+<strong>Stack</strong><br>
+Python · APIs · Data Visualization · Web
+
+<br>
 
 View repository →
 
@@ -67,8 +69,10 @@ Pokémon Price
 
 Pokémon TCG price comparison platform with card catalog, marketplace integrations and historical price tracking.
 
-Stack
-TypeScript APIs Web Development
+<strong>Stack</strong><br>
+TypeScript · APIs · Web Development
+
+<br>
 
 View repository →
 
@@ -82,31 +86,31 @@ View repository →
 <tr>
 <td width="33%" valign="top">
 
-Data & Analytics
+<strong>Data & Analytics</strong><br><br>
 
-Python
-SQL
-Power BI
+Python<br>
+SQL<br>
+Power BI<br>
 Excel
 
 </td>
 <td width="33%" valign="top">
 
-Development
+<strong>Development</strong><br><br>
 
-TypeScript
-JavaScript
-HTML / CSS
+TypeScript<br>
+JavaScript<br>
+HTML / CSS<br>
 APIs
 
 </td>
 <td width="33%" valign="top">
 
-Tools
+<strong>Tools</strong><br><br>
 
-Git
-GitHub
-VS Code
+Git<br>
+GitHub<br>
+VS Code<br>
 Render
 
 </td>
@@ -119,9 +123,7 @@ Render
 
 <img src="https://streak-stats.demolab.com?user=wilucholiveira&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
-</div>
-
-<div align="center">
+<br><br>
 
 Repositories ·
 Contributions ·
