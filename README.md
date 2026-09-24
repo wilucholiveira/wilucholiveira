@@ -18,7 +18,7 @@ My work and projects connect business knowledge with technology, especially in D
 
 02 / Audit + Data
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -47,7 +47,7 @@ The goal is simple: transform operational data into clear, actionable informatio
 
 03 / Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -58,7 +58,7 @@ Real-time climate monitoring platform focused on Brazilian cities, combining met
 <strong>Stack</strong><br>
 Python · APIs · Data Visualization · Web
 
-<br>
+<br><br>
 
 View repository →
 
@@ -72,7 +72,7 @@ Pokémon TCG price comparison platform with card catalog, marketplace integratio
 <strong>Stack</strong><br>
 TypeScript · APIs · Web Development
 
-<br>
+<br><br>
 
 View repository →
 
@@ -82,7 +82,7 @@ View repository →
 
 04 / Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
@@ -104,7 +104,7 @@ HTML / CSS<br>
 APIs
 
 </td>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 <strong>Tools</strong><br><br>
 
