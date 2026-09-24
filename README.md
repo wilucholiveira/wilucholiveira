@@ -1,43 +1,36 @@
 <div align="center">
 
-👋 Hi, I'm Wilame Oliveira
+WILAME OLIVEIRA
 
-Internal Audit • Data Analytics • Technology
+INTERNAL AUDIT / DATA ANALYTICS / TECHNOLOGY
 
-Turning data into insights, controls and intelligent applications.
+Python · Power BI · SQL · TypeScript · Git
 
-<br>
-
-
-
-
-
-
-
+Building data-driven systems for better monitoring, controls and decisions.
 
 </div>
 
-👨‍💻 About Me
+01 / About Me
 
 I'm an Internal Audit professional focused on Data Analytics and Technology, exploring how data, automation and software can improve business monitoring, controls and decision-making.
 
-My work and personal projects combine business knowledge with technology, especially in areas such as:
+My work and projects connect business knowledge with technology, especially in:
 
-📊 Data Analytics and Business Intelligence
+Data Analytics and Business Intelligence
 
-🔎 Continuous Auditing and Risk Monitoring
+Continuous Auditing and Risk Monitoring
 
-🐍 Python and Data Automation
+Python and Data Automation
 
-🗄️ SQL and Data Modeling
+SQL and Data Modeling
 
-📈 Power BI and Data Visualization
+Power BI and Data Visualization
 
-🤖 Machine Learning and Artificial Intelligence
+Machine Learning and Artificial Intelligence
 
-🌐 Web Applications and APIs
+Web Applications and APIs
 
-🔎 Audit + Data
+02 / Audit + Data
 
 I explore how technology and analytics can support modern Internal Audit through:
 
@@ -55,71 +48,63 @@ Automated Controls
 
 Decision Support
 
-The goal is to transform large volumes of operational data into clear, actionable information.
+The goal is simple: transform operational data into clear, actionable information.
 
-🚀 Featured Projects
+03 / Featured Projects
 
-🌎 Brasil Climate Monitor
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Real-time climate monitoring platform focused on Brazilian cities, combining meteorological data, APIs and interactive data visualization.
+Brasil Climate Monitor
 
-Highlights
+Real-time climate monitoring platform focused on Brazilian cities, combining meteorological data, APIs and interactive visualization.
 
-Real-time weather monitoring
+Stack
 
-Historical climate data
+Python APIs Data Visualization Web
 
-Interactive dashboards
+View repository →
 
-City-level analysis
+</td>
+<td width="50%" valign="top">
 
-Data visualization focused on usability
+Pokémon Price
 
-Stack: Python · APIs · Data Visualization · Web
+Pokémon TCG price comparison platform with card catalog, marketplace integrations and historical price tracking.
 
-👉 View Repository
+Stack
 
-🃏 Pokémon Price
+TypeScript APIs Web Development
 
-Pokémon TCG price comparison platform with card catalog, marketplace integrations and price history.
+View repository →
 
-Highlights
+</td>
+</tr>
+</table>
 
-Pokémon TCG card catalog
-
-Marketplace price comparison
-
-Price history
-
-API integrations
-
-Modern web interface
-
-Stack: TypeScript · APIs · Web Development
-
-👉 View Repository
-
-🛠️ Tech Stack
-
-Data & Analytics
-
-Python · SQL · Power BI · Excel · Data Visualization
-
-Development
-
-TypeScript · JavaScript · HTML · CSS · Git · GitHub
-
-Currently Exploring
-
-Machine Learning · Data Engineering · AI · Automation · APIs
-
-📊 GitHub Analytics
+04 / Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wilucholiveira&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilucholiveira&layout=compact&theme=github_dark&hide_border=true" />
+
+
+
+
+
+
+</div>
+
+05 / GitHub Analytics
+
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=wilucholiveira&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9&icon_color=2F81F7" />
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilucholiveira&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9" />
 
 </div>
 
@@ -127,42 +112,20 @@ Machine Learning · Data Engineering · AI · Automation · APIs
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=wilucholiveira&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=wilucholiveira&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
-🎯 What I'm Building
+Currently Exploring
 
-I'm interested in projects that connect data, business and technology.
-
-Some areas I'm currently exploring:
-
-Data-driven auditing
-
-Continuous monitoring
-
-Climate and business analytics
-
-Machine learning
-
-Predictive models
-
-Data engineering
-
-Intelligent automation
-
-📫 Contact
+Machine Learning · Data Engineering · AI · Automation · APIs
 
 <div align="center">
 
+DATA / AUDIT / TECHNOLOGY
 
+Better data. Better insights. Better decisions.
 
-</div>
-
-<div align="center">
-
-Data • Audit • Technology
-
-Building projects that transform data into better decisions.
+GitHub
 
 </div>
