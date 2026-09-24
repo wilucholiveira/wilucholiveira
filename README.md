@@ -18,30 +18,25 @@ My work and projects connect business knowledge with technology, especially in D
 
 02 / Audit + Data
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+Monitoring & Risk
 
-<strong>Monitoring & Risk</strong><br><br>
+Continuous Auditing
 
-Continuous Auditing<br>
-Risk Monitoring<br>
-Business Indicators<br>
+Risk Monitoring
+
+Business Indicators
+
 Anomaly Detection
 
-</td>
-<td width="50%" valign="top">
+Controls & Decisions
 
-<strong>Controls & Decisions</strong><br><br>
+Process Analysis
 
-Process Analysis<br>
-Automated Controls<br>
-Decision Support<br>
+Automated Controls
+
+Decision Support
+
 Data-Driven Auditing
-
-</td>
-</tr>
-</table>
 
 The goal is simple: transform operational data into clear, actionable information.
 
@@ -82,40 +77,35 @@ View repository →
 
 04 / Tech Stack
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+Data & Analytics
 
-<strong>Data & Analytics</strong><br><br>
+Python
 
-Python<br>
-SQL<br>
-Power BI<br>
+SQL
+
+Power BI
+
 Excel
 
-</td>
-<td width="33%" valign="top">
+Development
 
-<strong>Development</strong><br><br>
+TypeScript
 
-TypeScript<br>
-JavaScript<br>
-HTML / CSS<br>
+JavaScript
+
+HTML / CSS
+
 APIs
 
-</td>
-<td width="34%" valign="top">
+Tools
 
-<strong>Tools</strong><br><br>
+Git
 
-Git<br>
-GitHub<br>
-VS Code<br>
+GitHub
+
+VS Code
+
 Render
-
-</td>
-</tr>
-</table>
 
 05 / GitHub Activity
 
